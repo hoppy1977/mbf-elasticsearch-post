@@ -1,0 +1,22 @@
+{
+  "name": "mbf-elasticsearch-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoppy1977/mbf-elasticsearch-post.git"
+  },
+  "author": "Shane Hopcroft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoppy1977/mbf-elasticsearch-post/issues"
+  },
+  "homepage": "https://github.com/hoppy1977/mbf-elasticsearch-post#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
